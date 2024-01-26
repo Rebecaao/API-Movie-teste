@@ -20,7 +20,7 @@ function Home() {
         <Container>
             <h1>Movies</h1>
             <MovieList>
-                {movies. map(movie => {
+                {movies.map(movie => {
                     return (
                         <Movie key={movie.id}>
                             <Link to={`/details/${movie.id}`}>
