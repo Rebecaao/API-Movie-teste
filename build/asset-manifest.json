@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-Movie-teste/static/css/main.18b59da1.css",
+    "main.js": "/API-Movie-teste/static/js/main.10d5edc2.js",
+    "index.html": "/API-Movie-teste/index.html",
+    "main.18b59da1.css.map": "/API-Movie-teste/static/css/main.18b59da1.css.map",
+    "main.10d5edc2.js.map": "/API-Movie-teste/static/js/main.10d5edc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b59da1.css",
+    "static/js/main.10d5edc2.js"
+  ]
+}
